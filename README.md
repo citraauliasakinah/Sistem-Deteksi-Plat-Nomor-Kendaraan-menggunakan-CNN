@@ -1,1 +1,1 @@
-# Sistem-Deteksi-Plat-Nomor-Kendaraan-menggunakan-CNN
+# Sistem-Deteksi-Plat-Nomor-Kendaraan
